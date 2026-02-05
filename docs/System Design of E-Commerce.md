@@ -1,6 +1,6 @@
 # System Design in E-Commerce?
 
-A Complete **bluprint** of the entire E-Commerce application
+A Complete **blueprint** of the entire E-Commerce application
 
 - Define required microservices
 - Decides where and how data will be stored
@@ -63,7 +63,7 @@ A Complete **bluprint** of the entire E-Commerce application
 
 **Service Registry**
 
-- Kepps track of all running services with their IP/Port
+- Keeps track of all running services with their IP/Port
 - Supports auto-registration of services at startup
 - Enables dynamic load balancing across multiple instances
 

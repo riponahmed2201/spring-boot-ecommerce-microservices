@@ -26,7 +26,7 @@
 - Fault Isolation
 - Example:
   - Amazon
-  - Flipcart
+  - Flipkart
   - meesho
 
 - Microservices
@@ -82,15 +82,15 @@
     - Kafka Config
     - Email Config
     - JWT Secret
-    - Login Cofig
-    - Fearture Toggle
+    - Login Config
+    - Feature Toggle
     - Rate Limit
   - Distributed Tracing
     - Spring Cloud Sleuth
     - Zipkin Server
   - Centralized Logging
     - ELK Stack (Elasticsearch + Logstash + Kibana)
-    - Loki + Promtail
+    - Loki + Prom tail
   - Message Broker
     - Event Driven Architecture.
     - Kafka
